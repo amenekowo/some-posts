@@ -104,7 +104,3 @@ sudo stm32flash /dev/ttyUSB0 -w ./build/gnuk.bin
 
 3. [GnuK文档](http://www.fsij.org/doc-gnuk/development.html#hardware)
 
-
-
-本作品采用 ![img](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 进行许可。
-
